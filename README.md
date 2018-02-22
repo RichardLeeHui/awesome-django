@@ -354,7 +354,7 @@ phone numbers.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 * [djangorestframework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) - Recursive Serialization for Django REST framework
 * [django-rest-framework-jwt
-](https://github.com/funkybob/django-nap/) - JSON Web Token Authentication support for Django REST Framework.
+](https://github.com/GetBlimp/django-rest-framework-jwt/) - JSON Web Token Authentication support for Django REST Framework.
 
 ## Search
 
